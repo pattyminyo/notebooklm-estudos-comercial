@@ -33,8 +33,6 @@ Explorar o uso da Inteligência Artificial (NotebookLM) como ferramenta de apren
 
 ## 🤖 Uso do NotebookLM
 
-## 🤖 Uso do NotebookLM
-
 O NotebookLM foi utilizado para análise das fontes e geração de insights a partir de prompts estruturados, permitindo validar conceitos e apoiar a construção do miniguia.
 
 - Organização das fontes de estudo
@@ -43,6 +41,10 @@ O NotebookLM foi utilizado para análise das fontes e geração de insights a pa
 - Testes e refinamento de prompts para obtenção de respostas mais estratégicas
 
 A ferramenta permitiu acelerar o aprendizado, aumentar a produtividade e melhorar a qualidade da análise de conteúdos complexos, apoiando decisões mais assertivas.
+
+## 📸 Evidência de uso do NotebookLM
+
+![NotebookLM](notebooklm-print.png)
 
 ## ⚠️ Dificuldades encontradas
 
